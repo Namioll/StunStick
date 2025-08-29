@@ -1,0 +1,7 @@
+name: StunPlugin
+version: '1.0'
+main: me.namioll.stunPlugin.StunPlugin
+api-version: '1.21'
+authors: [ _Lolliman_ ]
+commands:
+  stunstick:

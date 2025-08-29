@@ -1,0 +1,8 @@
+StunStick:
+   name: "&9&lСтан-Палка"
+   lore1: "&7Эта палка позволяет задержать игрока."
+   lore2: "&7Использование: &6&l[ПКМ]&7."
+   success-message: "&aУспешно! Палочка выдана!"
+   no-permissions-message: "&cУпс! У вас нет прав."
+   cooldown-stick: 5.0
+   cooldown-stun: 30.0
